@@ -43,7 +43,7 @@ public class AppleStart extends JFrame{
 	   private JFrame frame;
 	   private JPanel panel;
 	   //test
-	   //
+	   //gdfgdfgfd
 	   public AppleStart()
 	   {  
 		  frame = new JFrame();

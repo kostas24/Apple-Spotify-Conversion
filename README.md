@@ -1,5 +1,8 @@
 # Apple-Spotify-Conversion
 
+#updated 
+https://github.com/kostas24/AppleSpotifyRedirector
+
 # Purpose/Idea:
 When a friend who uses Spotify music messages you a song to listen to, and you have Apple Music, you're unable to listen to 
 that song without manually going and searching it up. This code is helps solve that problem by simply copying the link 
